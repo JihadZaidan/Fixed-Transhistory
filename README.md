@@ -1,5 +1,7 @@
 # Changelog
 
+[![Library](https://skillicons.dev/icons?i=sass,bootstrap,jquery&theme=dark)]
+
 ## 3.4.0
 
 * Bootstrap rubygem now depends on SassC instead of Sass.
@@ -7,7 +9,7 @@
 
 ## 3.3.7
 
-* Allows jQuery 3.x in bower.json. [#1048](https://github.com/twbs/bootstrap-sass/issues/1048)
+* Allows jQuery 3.x in bower.json.  [#1048](https://github.com/twbs/bootstrap-sass/issues/1048)
 * Adds the `style` and `sass` fields to package.json. [#1045](https://github.com/twbs/bootstrap-sass/issues/1045)
 * Adds Eyeglass support. [#1007](https://github.com/twbs/bootstrap-sass/pull/1007)
 
