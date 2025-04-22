@@ -301,11 +301,4 @@ discussion on topic and respect the opinions of others.
 [upstream]: https://github.com/twbs/bootstrap
 [converter-readme]: https://github.com/twbs/bootstrap-sass/blob/master/README.md#upstream-converter
 
-# Make WIdth 
-<br> https://github.com/JihadZaidan [ UI UX & Frontend ] 
-<br> https://github.com/F-777 [ UI UX & Frontend ]
 
-# Instagram : <br> 
-<br> https://www.instagram.com/revoadmojo29/ 
-<br> https://www.instagram.com/furina_torres/
-<br> https://www.instagram.com/ryanair_airbus_a350_/
