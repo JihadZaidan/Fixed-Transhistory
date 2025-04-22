@@ -1,6 +1,6 @@
 # Changelog
 
-[![Library](https://skillicons.dev/icons?i=sass,bootstrap,jquery&theme=dark)]
+[Library](https://skillicons.dev/icons?i=sass,bootstrap,jquery&theme=dark)
 
 ## 3.4.0
 
