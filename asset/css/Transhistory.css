@@ -14,11 +14,11 @@ header {
   width: 100%;
   padding: 20px 100px;
   margin-bottom: 30px;
-  background-color: navy;
+  background-color: black;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  z-index: 100;
+  z-index: 10;
 }
 
 .logo {
