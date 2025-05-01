@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 footer{
-  background-color:#091430;
-  border-radius: 3%;
+  background-color:#030303;
+  border-radius: 0%;
 }
 .footerContainer{
    width: 100%;
@@ -57,7 +57,7 @@ footer{
   opacity: 1;
 }
 .bottom-bar{
-  background-color: #091430;
+  background-color: #030303;
   padding: 20px;
   text-align: center;
 }
