@@ -70,14 +70,27 @@
 <body>
 
     <header>
-        <img src="../asset/images/Logo-removebg-preview.png" height="40px" width="310px">
-        <nav class="navigation">
-            <a href="Home.html">Home</a>
-            <a href="Internasional.html">Internasional</a>
-            <a href="Nasional.html">Nasional</a>
-            <a href="Contact&Setting.html">Contact Us</a>
-        </nav>
-    </header>
+  <img src="../asset/images/Logo-removebg-preview.png" alt="Logo">
+
+  <nav class="navigation" id="menu">
+      <a href="Home.html">Home</a>
+      <a href="Internasional.html">Internasional</a>
+      <a href="Nasional.html">Nasional</a>
+      <a href="Contact&Setting.html">Contact Us</a>
+  </nav>
+
+  <div class="hamburger" id="hamburger">☰</div>
+</header>
+
+<script>
+  const hamburger = document.getElementById('hamburger');
+  const menu = document.getElementById('menu');
+
+  hamburger.addEventListener('click', () => {
+    menu.style.display = menu.style.display === 'flex' ? 'none' : 'flex';
+  });
+</script>
+
 
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
@@ -158,5 +171,6 @@
 </body>
 
 </html>
+
 
 
